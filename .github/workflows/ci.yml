@@ -1,7 +1,7 @@
 name: ci
 on:
   push:
-    branches: [master]
+    branches: [master, 1.x]
   pull_request:
 
 env:
